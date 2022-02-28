@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remerciement fait au Roi de la part de l'eglise francoise et de l'eglise flamande de la ville de Londres pour les graces que sa Majesté a accordées aux estrangers protestans qui se retirent dans son Roiaume prononcé par David Primerose, ministre de l'eglise francoise, le 19 October, 1681 = The thanks given to the King on the behalf of the French and Dutch churches in the city of London for the favours granted by His Majesty to the Protestant strangers retired into his kingdom / spoken the 19th of October, 1681, by David Primerose, minister of the French church in London.</title>
+            <author>Primerose, David.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91016</idno>
+            <idno type="STC">Wing P3474B</idno>
+            <idno type="STC">Wing R958</idno>
+            <idno type="STC">ESTC R7019</idno>
+            <idno type="EEBO-CITATION">13708881</idno>
+            <idno type="OCLC">ocm 13708881</idno>
+            <idno type="VID">151666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91016)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151666)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 848:4 or 2270:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remerciement fait au Roi de la part de l'eglise francoise et de l'eglise flamande de la ville de Londres pour les graces que sa Majesté a accordées aux estrangers protestans qui se retirent dans son Roiaume prononcé par David Primerose, ministre de l'eglise francoise, le 19 October, 1681 = The thanks given to the King on the behalf of the French and Dutch churches in the city of London for the favours granted by His Majesty to the Protestant strangers retired into his kingdom / spoken the 19th of October, 1681, by David Primerose, minister of the French church in London.</title>
+                  <author>Primerose, David.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Chez George Wells,</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text in French and English in parallel columns.</note>
+                  <note>"Imprimé par le commandement de sa Majesté = Printed by his Majesties command."</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery, San Marino, California (848:4).</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois (2270:13).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Huguenots --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="fre">
+            <body>
+               <div type="speech">
+                  <pb n="1" facs="tcp:151666:1" rendition="simple:additions"/>
+                  <head>REMERCIEMENT FAIT AU ROI DE LA PART DE L'EGLISE FRANCOISE ET DE L'EGLISE FLAMANDE DE LA Ville de LONDRES, POUR Les graces que ſa Majeſté a accordées aux <hi>Eſtrangers Proteſtans</hi> qui ſe retirent dans ſon Roiaume.</head>
+                  <head type="sub">Prononcé par <hi>DAVID PRIMEROSE,</hi> Miniſtre de l'Egliſe <hi>Francoiſe,</hi> le 19 <hi>Octobre,</hi> 1681.</head>
+                  <argument>
+                     <p>Imprimé par le Commandement de ſa Majeſté.</p>
+                  </argument>
+                  <opener>
+                     <salute>SIRE,</salute>
+                  </opener>
+                  <p>NOus venons nous jetter aux pieds de votre <hi>Majeſté</hi> de la part des Egliſes Froncoiſe, &amp; Fla<g ref="char:EOLhyphen"/>mande de vótre ville de Lon<g ref="char:EOLhyphen"/>dres, pour vous témoigner le profond teſſentiment que nous auons de toutes les graces que vous aués faites aux Etran<g ref="char:EOLhyphen"/>gers Proteſtants qui viennent chercher dans vótre Empire vn aſyle pour leur con<g ref="char:EOLhyphen"/>ſcience. Nous en auons, SIRE, vne reconnoiſſance ſi ſenſible que nous n'auons peu nous abſtenir de la faire eclatter juſques deuant vous. C'eſt a la verité une grande hardieſſe a des perſon<g ref="char:EOLhyphen"/>nes comme nous d'approcher de vótre <hi>Majesté,</hi> mais conſiderans que ce Dieu infini qui a ſon trône dans le ciel daigne
+<pb n="2" facs="tcp:151666:2"/>accepter les remercimens de ſes creatures, nous avons creu que vous ne dédaigne<g ref="char:EOLhyphen"/>riés pas de receuoir les nótres, &amp; que vous agreeriés que nous rendions nos hommages a vótre clemence.</p>
+                  <p>Dans cette conſideration nous prenous la liberté de venir dire a vótre <hi>Majesté</hi> ce que nous diſons part tout que l'on ne peut aſſés admirer vos bontés, &amp; que quoi que ne voiant dans le monde perſonne au deſ<g ref="char:EOLhyphen"/>ſus de vous, vous ſoiés grand &amp; digne de nos plus humbles reſpects, ils vous ſont pourtant deusd'vnefacon toute particulere par ce qu'étant ſi grand &amp; ſi eleué vousétes eanté-moins ſi clement &amp; ſi debonnaire. C'eſt la, SIRE, ſoutenir dignement cet élo<g ref="char:EOLhyphen"/>ge de <hi>Bienfaiteurs</hi> que Jeſus Chriſt declare que l'on donne aux Maiſtres des Nations, &amp; celui de <hi>Defenſeur de la foi</hi> qui eſt l'vn de vos tiltres, c'eſt la faire ſervir la puiſſance ſouueraine a la fin pour laquelle Dieu l'a ordonnée, qui eſt de procurer autant qu'il eſt poſſible le bonheur de tous les hom<g ref="char:EOLhyphen"/>mes, c'eſt la reſſembler a ce Dieu <hi>trés bon</hi> &amp; <hi>trés grand</hi> dont vótre <hi>Majeſté</hi> eſt le Lieu<g ref="char:EOLhyphen"/>tenant.</p>
+                  <p>Nous vondrions bien pouuoir exprimer plus fortement nos reſſentimens, mais les termes nous manquent, &amp; d'ailleurs nous n'oſerions importuner plus long temps uótre <hi>Majeſté,</hi> nous concluons donc en la ſuppliant dans vne humilité profonde qu'a l'exemple de ce grand Dieu qui aime juſ<g ref="char:EOLhyphen"/>ques a la fin ceux qu'il a vne fois aimês elle daigne continuer a nous fauoriſer de ſa protection, &amp; en proteſtant que nous ſommes dans la reſolution de vous rendre inuiolablement tous les reſpects &amp; toutes les ſoumiſſions qui vous ſont deuës par de fideles ſubjets, &amp; de prier continuellement ce Dieu ſupreme par qui les Rois regnent qu'il veille combler vótre <hi>Majeſté</hi> de tou<g ref="char:EOLhyphen"/>tes ſortes de benedictions.</p>
+                  <p>Sa Majeſté eut la bonté de repondre,<lb/>
+                     <q xml:lang="fre">JE promets de vous donner toute la pro<g ref="char:EOLhyphen"/>tection imaginable.</q>
+                  </p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>A LONDRES</hi> Chez GEORGE WELLS, 1681.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="speech">
+                  <pb n="1" facs="tcp:151666:1" rendition="simple:additions"/>
+                  <head>THE THANKS GIVEN TO THE KING On the behalf of the <hi>FRENCH</hi> and <hi>DUTCH</hi> CHURCHES In the City of LONDON, FOR The Favours granted by his Majeſty to the <hi>Proteſtant Strangers</hi> Retired into his Kingdom.</head>
+                  <head type="sub">Spoken the 19th of <hi>October</hi> 1681, By <hi>David Primeroſe</hi> Miniſter of the <hi>French</hi> Church in <hi>London.</hi>
+                  </head>
+                  <head type="sub">Printed by his Majeſties Command.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>WE are come to caſt our ſelves at your Majeſties Feet, on the behalf of the <hi>French</hi> and <hi>Dutch</hi> Churches in your City of <hi>London,</hi> to teſtify the profound Acknowledgments which we have of all the Favours that you have ſhown to the <hi>Prote<g ref="char:EOLhyphen"/>ſtant Strangers</hi> who are come to ſeek for a Sanctuary for their Conſciences within your Majeſties Dominions. <hi>Sir,</hi> We are ſo deeply ſenſible of your Royal Bounties, that we can<g ref="char:EOLhyphen"/>not refrain from declaring it publickly to your Royal Self. Moſt certainly it is a very great boldneſs for ſuch mean Perſons as we are to Approach your Majeſty; but conſide<g ref="char:EOLhyphen"/>ring that that Infinite God who has his Throne in Heaven vouchſafes to accept the Thanksgi<g ref="char:EOLhyphen"/>ving
+<pb n="2" facs="tcp:151666:2"/>of his Creatures, it is our hope that your Mjaeſty will not diſdain to receive ours; and that you will be favourably pleaſed with us, in rendring our Homages to your Clemency.</p>
+                  <p>Upon theſe Conſiderations we take the Li<g ref="char:EOLhyphen"/>berty to come here to tell your Majeſty that which we every where declare, that it is im<g ref="char:EOLhyphen"/>poſſible for us ſufficiently to admire your good<g ref="char:EOLhyphen"/>neſs; and tho it were only that we beheld in the World no Perſon above you, you are moſt worthy of our most Humble Reſpects; yet they are due to you in a manner altogether particu<g ref="char:EOLhyphen"/>lar; for that altho ſo great and ſo Elevated, you are nevertheleſs ſo Clement and Benign. Thus, Sir, you worthily maintain that Name of <hi>Benefactor,</hi> which Jeſus Chriſt declares that we ſhould give to the Lords of Nations; and that of <hi>Defender of the Faith,</hi> which is one of your Titles: This is to make uſe of your Soveraign Power to that end for which God has ordain'd it, which is to procure as much as is poſſible, the happineſs of all Men. This is to reſemble the most great and moſt good God, whoſe Vicegerent your Maje<g ref="char:EOLhyphen"/>ſty is.</p>
+                  <p>We would more vehemently farther expreſs our acknowledgments, but we want Words; and beſides we dare not give your Majeſty longer trouble. Therefore we conclude, be<g ref="char:EOLhyphen"/>ſeeching your Majeſty with a moſt profound Humility, that according to the Example of that great God, who to the end loves thoſe whom he hath once lov'd, that your Majeſty would be pleaſed to continue to us the favour of your Protection, proteſting on our ſide, that we are firm in our Reſolution, to render you inviolably all thoſe Reſpects and Homages which are due to your Majeſty from the faith<g ref="char:EOLhyphen"/>fulleſt of your Subjects, and continually to pray to that Supream God by whom Kings Reign, that he would heap upon your Majeſty the abundance of his Bleſſings.</p>
+                  <p>His Majeſty was pleaſed Graciouſly to Anſwer.<lb/>
+                     <q>
+                        <hi>I</hi> Promiſe to give you all the Protection ima<g ref="char:EOLhyphen"/>ginable.</q>
+                  </p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON, Printed for GEORGE WELLS, 1681.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
